@@ -2,8 +2,8 @@
 <h1>I am Krishna Dev Singhania</h1>
 <h3>A Full Stack Web Developer :man_technologist: (3.5 Yrs of Experience)</h3>
 
-- :telescope: I’m currently looking for some interesting projects to work!
-- 🌱 I’m currently working with Nest JS, MongoDB & GraphQL
+- :telescope: I’m currently looking for some interesting projects to work on!
+- 🌱 I’m currently working on React Native.
 - :dancers: I’m looking to collaborate on many Open Source Projects :sparkling_heart:
 - :thinking: I’m looking for help with career :office:
 - :speech_balloon: Ask me about anything! :hugs:
