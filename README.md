@@ -1,5 +1,5 @@
 <h3>Hi Everyone! :wave:</h3>
-<h1>I am Krishna Dev Singhania</h1>
+<h1>I am Krishna Kumar</h1>
 <h3>A Full Stack Web Developer :man_technologist: (3.6+ Yrs of Experience)</h3>
 
 - :telescope: I’m currently looking for some interesting projects to work on!
