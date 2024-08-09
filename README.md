@@ -3,7 +3,7 @@
 <h3>A Full Stack Web Developer :man_technologist: (3.8+ Yrs of Experience)</h3>
 
 - :telescope: I’m looking for interesting projects to work on!
-- 🌱 I’m currently working on NextJS.
+- 🌱 I’m currently working on NextJS  <img title="NextJs" alt="NextJS" width="15px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" />.
 - :dancers: I’m looking to collaborate on many Open Source Projects :sparkling_heart:
 - :thinking: I’m looking for help with career :office:
 - :speech_balloon: Ask me about anything! :hugs:
