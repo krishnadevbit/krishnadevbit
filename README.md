@@ -1,14 +1,14 @@
 <h3>Hi Everyone! :wave:</h3>
-<h1>I am Krishna Kumar</h1>
+<h1>My Self Krishna Kumar</h1>
 <h3>A Full Stack Web Developer :man_technologist: (3.8+ Yrs of Experience)</h3>
 
-- :telescope: I’m currently looking for some interesting projects to work on!
-- 🌱 I’m currently working on React Native.
+- :telescope: I’m looking for interesting projects to work on!
+- 🌱 I’m currently working on NextJS.
 - :dancers: I’m looking to collaborate on many Open Source Projects :sparkling_heart:
 - :thinking: I’m looking for help with career :office:
 - :speech_balloon: Ask me about anything! :hugs:
 - :smile: Pronouns: He/ Him
-- :zap: Fun fact: :calling: text me if you wanna know!
+- :zap: Fun fact: :calling: text me if you want to know!
 - 📫 How to reach me: <a href="mailto:krishnadevbit@gmail.com">Email me</a>
 
 ### Connect with me 
@@ -32,6 +32,7 @@
 <img align="left" title="Bootstrap" alt="Bootstrap" width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 <img align="left" title="Tailwind" alt="Tailwind" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" title="React" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" title="NextJs" alt="NextJS" width="40px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
 <img align="left" title="Redux" alt="Redux" width="40px" src="https://www.svgrepo.com/show/303557/redux-logo.svg" />
 <img align="left" title="NestJs" alt="Nest Js" width="40px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
 <img align="left" title="GraphQl" alt="GraphQl" width="40px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
