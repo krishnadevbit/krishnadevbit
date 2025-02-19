@@ -1,6 +1,6 @@
 <h3>Hi Everyone! :wave:</h3>
 <h1>My Self Krishna Kumar</h1>
-<h3>A Full Stack Web Developer :man_technologist: (3.8+ Yrs of Experience)</h3>
+<h3>A Full Stack Web Developer :man_technologist: (4.2+ Yrs of Experience)</h3>
 
 - :telescope: I’m looking for interesting projects to work on!
 - 🌱 I’m currently working on NextJS  <img title="NextJs" alt="NextJS" width="15px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" />.
